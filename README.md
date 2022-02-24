@@ -1,1 +1,1 @@
-# C-liste-il-say-lar-g-sterme PROJESİ 14:15 24.02.202
+# C#-liste-il-sayılar-gösterme projesi 14:15 24.02.202
